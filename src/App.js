@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">React AWS Hosted App</header>
       <body className="App-body">
         <h4>
-          Welcome !
+          Welcome to App!
         </h4>
       </body>
     </div>
